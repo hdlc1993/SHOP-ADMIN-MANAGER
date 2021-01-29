@@ -10,5 +10,4 @@
 * 用户管理
 * 商品管理
 ![](http://www.tuchuangs.com/view.php/c2f7ffe1594752f33a05a66a950d094f.jpg)
-![](http://www.tuchuangs.com/view.php/c2f7ffe1594752f33a05a66a950d094f.jpg)
 ![](http://www.tuchuangs.com/view.php/caa2896640d99cf71b2d52f5c7e72942.jpg)
