@@ -9,3 +9,5 @@
 * 菜单管理
 * 用户管理
 * 商品管理
+![Image text](http://www.tuchuangs.com/view.php/c2f7ffe1594752f33a05a66a950d094f.jpg)
+![Image_text](http://www.tuchuangs.com/view.php/caa2896640d99cf71b2d52f5c7e72942.jpg)
