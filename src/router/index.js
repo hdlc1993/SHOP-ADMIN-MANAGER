@@ -8,7 +8,7 @@ let Index = ()=> import('@/pages/index');
 let Reg = ()=>import('@/pages/Register');
 let Menu = ()=>import('@/pages/MenuSetting');
 //路由懒加载<END>
-
+//2021-01-29
 Vue.use(Router);
 export default new Router({
     routes:[
